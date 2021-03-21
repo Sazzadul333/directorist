@@ -8,44 +8,6 @@ Directorist is the complete WordPress directory plugin that is used to create mo
 - Official Facebook Page : [Like and Follow on Facebook](https://www.facebook.com/directorist)
 - Official Twitter handle : [Follow on Twitter](https://twitter.com/wpdirectorist)
 
-## AMAZING FEATURES
-- Settings panel new UI
-- Directory slug in url
-- Admin debugger
-- Templating/Template override system(developer)
-- Directorist Extension management
-- Custom Form Builder facility
-- Multidirectory feature available
-- Compatible with all themes including popular ones such as Avada, Divi, Astra, and OceanWP.
-- CSV Bulk Importer (listing, category, location, tag, media etc.).
-- Highly-optimized and rocket-fast performance to ensure scalability.
-- 25+ Elementor Page Builder widgets.
-- Advanced search filters to narrow down and yield accurate search results and with addition of custom fields filter, elevate the search experience to a greater level.
-- Front-end and Back-end listing submission.
-- Front-end user dashboard to manage listings.
-- Open Street Map and Google Map Integration.
-- Unlimited custom fields to accommodate custom requirements on the listing form.
-- 100% responsive and modern-day design.
-- WooCommerce multi-vendor plugin compatible [Exclusive].
-- Built-in SEO optimization system as well as Yoast SEO compatibility.
-- Personalize the directory using a wide range of short codes.
-- GDPR compliant.
-- Ajax powered listing and review submission.
-- Listing owner contact form.
-- Listing image slider.
-- Listing and Review submission without login (Guest Submission).
-- Listing reviews and ratings.
-- Display business hours, FAQs, image gallery, carousel & slider, Google reCAPTCHA for a listing using paid extensions.
-- Custom sidebar for single listing page.
-- Custom user Registration and Login.
-- New, Popular, Featured, and Open/Close badges.
-- Create Unlimited listing based on location and category.
-- List and grid view for categories, locations, and listings pages.
-- Translate to any language effortlessly using Loco Translate plugin.
-- Sustainable for a long-term use.
-- Updated regularly for flawless operation.
-- And many more!
-
 ## EXTENSIVE MONETIZATION FACILITY
 Directorist Business Directory allows you to monetize your business directory website in various ways. Let’s take a look at them:
 

@@ -11,4 +11,4 @@ Please don't use the issue tracker for support request, rather create a support 
 
 ## Contributing to Directorist
 You are welcome to contribute to the code, for more information please check our [Development Guidelines](https://github.com/sovware/directorist/wiki/Development-Guidelines)
-sdfdsf
+

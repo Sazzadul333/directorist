@@ -1,4 +1,7 @@
-Welcome to Directorist, The World’s Most Complete WordPress Directory Plugin. Here you can browse the source code, create issues and keep track of the development.
+Welcome to the Directorist repository on GitHub. This is the place where you can get in touch with the source code, visible issues, and continuous updates. If you are not a developer, you can use the Directorist plugin page on WordPress.org.
+
+👉 Demos | Docs | Themes | Extensions | Roadmap | Support 👈
+Directorist is the complete WordPress directory plugin that is used to create modern advanced directory websites. 
 
 ## Documentation
 * [Directorist](https://directorist.com/documentation/directorist/)

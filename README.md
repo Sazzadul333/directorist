@@ -55,7 +55,7 @@ Directorist Business Directory allows you to monetize your business directory we
 - **Pay Per Submit:** Earn by charging users to create a listing on your site.
 
 ## SUPPORT
-This place isn't suitable for support. You shouldn't use our issue tracker for support requests, but for core pluign issues, you can get in touch here only. Moreover for more support, please, head over to our [official support channel](https://directorist.com/contact/).
+This place isn't suitable for support. You shouldn't use our issue tracker for support requests, but for core pluign issues, you can get in touch here only. Moreover, for more support, please, head over to our [official support channel](https://directorist.com/contact/).
 
 ## Contributing to Directorist
 You are welcome to contribute to the code, for more information please check our [Development Guidelines](https://github.com/sovware/directorist/wiki/Development-Guidelines)

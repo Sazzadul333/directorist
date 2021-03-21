@@ -1,4 +1,4 @@
-Welcome to the Directorist repository on GitHub. This is the place where you can get in touch with the source code, visible issues, and continuous updates. If you are not a developer, you can use the Directorist plugin page on WordPress.org.
+Welcome to the Directorist repository on GitHub. This is the place where you can get in touch with the source code, visible issues, and continuous updates. If you are not a developer, you can use the [Directorist plugin page](https://wordpress.org/plugins/directorist/) on WordPress.org.
 
 👉 [Demos](https://directorist.com/demos/) | [Docs](https://directorist.com/documentation/directorist/) | [Themes](https://directorist.com/documentation/themes/) | [Extensions](https://directorist.com/documentation/extensions) | [Roadmap](https://directorist.com/roadmap/) | [Support](https://directorist.com/contact/) 👈
 

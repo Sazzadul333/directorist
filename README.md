@@ -5,6 +5,8 @@ Welcome to the Directorist repository on GitHub. This is the place where you can
 Directorist is the complete WordPress directory plugin that is used to create modern advanced directory websites. Before we started with this project, we researched and couldn't find any comprehensive directory solution out there. That's why we took initiative to make it happen in order to serve your purposes.
 
 ## Amazing Features
+- Custom Form Builder facility
+- Multidirectory feature available
 - Compatible with all themes including popular ones such as Avada, Divi, Astra, and OceanWP.
 - CSV Bulk Importer (listing, category, location, tag, media etc.).
 - Highly-optimized and rocket-fast performance to ensure scalability.
